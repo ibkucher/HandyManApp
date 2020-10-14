@@ -1,4 +1,4 @@
-# HandyMan app
+# HandyMan App - college project
 
 ## Project Setup
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
@@ -31,5 +31,6 @@ In the project root folder, run command `npm run dev`
 12. Once Pull request is created you can assign to the team members to review from reviewers dropdown on github. 
 If you are in your local branch `feature/login` and you want to switch to an existing branch or a master branch Run `git checkout <branch>`. (e.g. `git checkout features/readme`).
 
-
+## Contributors
+[ibkucher](https://github.com/ibkucher), [Nparekh90](https://github.com/Nparekh90), [AbbyNode](https://github.com/AbbyNode), [emmajsl](https://github.com/emmajsl), [BillyLee96312](https://github.com/BillyLee96312), Helia and Imitaz
 

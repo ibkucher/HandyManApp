@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\server",
+    "\\server\\routes",
+    "\\src",
+    "\\src\\router",
+    "\\src\\store",
+    "\\src\\utils",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\views\\TableList.vue",
+  "PreviewInSolutionExplorer": false
+}
